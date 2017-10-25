@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F5B14831FA10EE00098DAFA /* BalanceHeightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5B14821FA10EE00098DAFA /* BalanceHeightViewController.swift */; };
 		7FCD04B11F9A848D00161BA7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCD04B01F9A848D00161BA7 /* AppDelegate.swift */; };
 		7FCD04B31F9A848D00161BA7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCD04B21F9A848D00161BA7 /* ViewController.swift */; };
 		7FCD04B61F9A848D00161BA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FCD04B41F9A848D00161BA7 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F5B14821FA10EE00098DAFA /* BalanceHeightViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceHeightViewController.swift; sourceTree = "<group>"; };
 		7FCD04AD1F9A848D00161BA7 /* stackview-iph-ipad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "stackview-iph-ipad.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FCD04B01F9A848D00161BA7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FCD04B21F9A848D00161BA7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				7FCD04B01F9A848D00161BA7 /* AppDelegate.swift */,
+				7F5B14821FA10EE00098DAFA /* BalanceHeightViewController.swift */,
 				7FCD04B21F9A848D00161BA7 /* ViewController.swift */,
 				7FCD04B41F9A848D00161BA7 /* Main.storyboard */,
 				7FCD04B71F9A848D00161BA7 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			files = (
 				7FCD04B31F9A848D00161BA7 /* ViewController.swift in Sources */,
 				7FCD04B11F9A848D00161BA7 /* AppDelegate.swift in Sources */,
+				7F5B14831FA10EE00098DAFA /* BalanceHeightViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
